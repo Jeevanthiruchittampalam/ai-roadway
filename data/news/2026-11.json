@@ -462,7 +462,13 @@
    "t": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "u": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "s": "Hacker News",
-   "score": 2.9
+   "score": 3
+  },
+  {
+   "t": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "u": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "s": "Hacker News",
+   "score": 2.8
   },
   {
    "t": "AI is destroying the trust between writers and readers",
@@ -475,12 +481,6 @@
    "u": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction",
    "s": "The Guardian",
    "score": 2
-  },
-  {
-   "t": "How it feels to battle with a flood of AI-generated complaints | Letters",
-   "u": "https://www.theguardian.com/technology/2026/nov/13/how-it-feels-to-battle-with-a-flood-of-ai-generated-complaints",
-   "s": "The Guardian",
-   "score": 2
   }
  ],
  "2026-11-14": [
@@ -488,13 +488,13 @@
    "t": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
    "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
    "s": "TechCrunch",
-   "score": 8
+   "score": 10
   },
   {
    "t": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
    "u": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
    "s": "TechCrunch",
-   "score": 6
+   "score": 8
   },
   {
    "t": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -553,16 +553,16 @@
  ],
  "2026-11-15": [
   {
+   "t": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "u": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "s": "The Verge",
+   "score": 10
+  },
+  {
    "t": "All AI-generated code should be Open Source",
    "u": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
    "s": "Hacker News",
    "score": 5
-  },
-  {
-   "t": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-   "u": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-   "s": "The Verge",
-   "score": 4
   },
   {
    "t": "A step toward defining the Standard Model on a lattice",
@@ -616,7 +616,7 @@
    "t": "Understanding Positional Embeddings in Modern LLMs",
    "u": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
    "s": "Hacker News",
-   "score": 1.9
+   "score": 2
   },
   {
    "t": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -645,15 +645,51 @@
  ],
  "2026-11-16": [
   {
+   "t": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+   "u": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+   "s": "The Guardian",
+   "score": 11
+  },
+  {
+   "t": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "u": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "s": "TechCrunch",
+   "score": 10
+  },
+  {
+   "t": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "u": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "s": "Ars Technica",
+   "score": 10
+  },
+  {
+   "t": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+   "u": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "s": "Wired",
+   "score": 10
+  },
+  {
    "t": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
    "u": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
    "s": "The Guardian",
-   "score": 5
+   "score": 9
   },
   {
    "t": "Apple launches new app to study how people use AI for health",
    "u": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
    "s": "TechCrunch",
+   "score": 5
+  },
+  {
+   "t": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "u": "https://openai.com/index/lvmh-media-division-partnership",
+   "s": "OpenAI",
+   "score": 5
+  },
+  {
+   "t": "The King’s Trust and OpenAI launch £1m partnership",
+   "u": "https://openai.com/index/the-kings-trust-and-openai",
+   "s": "OpenAI",
    "score": 5
   },
   {
@@ -663,10 +699,40 @@
    "score": 4
   },
   {
-   "t": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
-   "u": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
-   "s": "The Guardian",
-   "score": 2
+   "t": "Our first phase of embedded assessments",
+   "u": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "u": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "s": "TechCrunch",
+   "score": 4
+  },
+  {
+   "t": "Google Maps can now create trip itineraries for you",
+   "u": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "s": "The Verge",
+   "score": 4
+  },
+  {
+   "t": "Broadening access to AI for scientists",
+   "u": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "u": "https://openai.com/index/strengthening-online-child-safety",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Science at the Frontier: How scientists use ChatGPT",
+   "u": "https://openai.com/index/science-at-the-frontier",
+   "s": "OpenAI",
+   "score": 3
   }
  ]
 }

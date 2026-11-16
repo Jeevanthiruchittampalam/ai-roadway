@@ -1,39 +1,39 @@
 {
- "updated": "2026-11-16T04:19:22.675Z",
+ "updated": "2026-11-16T18:30:24.212Z",
  "firstDay": "2026-11-06",
  "months": [
   "2026-11"
  ],
  "big": {
-  "d": "2026-11-14",
-  "t": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-  "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-  "s": "TechCrunch"
+  "d": "2026-11-16",
+  "t": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+  "u": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+  "s": "The Guardian"
  },
  "runnersUp": [
   {
-   "d": "2026-11-12",
-   "t": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
-   "u": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
-   "s": "The Guardian"
-  },
-  {
-   "d": "2026-11-12",
-   "t": "Anthropic IPO",
-   "u": "https://ipo.anthropic.com/us/",
-   "s": "Hacker News"
-  },
-  {
-   "d": "2026-11-14",
-   "t": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "u": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "d": "2026-11-16",
+   "t": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "u": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
    "s": "TechCrunch"
   },
   {
-   "d": "2026-11-14",
-   "t": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-   "u": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-   "s": "Hacker News"
+   "d": "2026-11-16",
+   "t": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "u": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "s": "Ars Technica"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+   "u": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "s": "Wired"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "u": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "s": "The Verge"
   }
  ]
 }
