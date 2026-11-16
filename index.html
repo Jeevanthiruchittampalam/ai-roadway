@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>AI Roadway — where are we on the road to superintelligence?</title>
+<meta name="description" content="A zoomable cartoon timeline of AI: every milestone so far, fresh AI news every day, and bold predictions for the road ahead.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛣️</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<canvas id="road" aria-label="AI timeline road"></canvas>
+<div id="pins"></div>
+
+<a id="bignews" class="card" target="_blank" rel="noopener noreferrer">
+  <span class="kicker">📡 Latest big AI news</span>
+  <span class="headline" id="bn-title">Tuning in to the news feed…</span>
+  <span class="meta" id="bn-meta"></span>
+</a>
+
+<header id="brand" class="card">
+  <h1>🛣️ AI Roadway</h1>
+  <p id="tagline">Where are we on the road?</p>
+</header>
+
+<div id="controls">
+  <button id="next-pred" class="chip pred-chip" hidden></button>
+  <div class="row">
+    <button class="chip" data-zoom="era" title="Whole road">Era</button>
+    <button class="chip" data-zoom="decade">Decade</button>
+    <button class="chip" data-zoom="year">Year</button>
+    <button class="chip" data-zoom="month">Month</button>
+    <button class="chip" data-zoom="day">Day</button>
+  </div>
+  <div class="row">
+    <button class="chip round" id="zoom-out" aria-label="Zoom out">−</button>
+    <button class="chip round" id="zoom-in" aria-label="Zoom in">+</button>
+    <button class="chip" id="go-today">🚗 Today</button>
+    <button class="chip" id="show-preds">🔮 Predictions</button>
+    <input class="chip" id="jump" type="date" min="1950-01-01" max="2159-12-31" aria-label="Jump to date">
+  </div>
+</div>
+
+<aside id="panel" class="card" hidden aria-live="polite">
+  <div id="panel-head">
+    <button class="chip round" id="p-prev" aria-label="Previous day">‹</button>
+    <h2 id="p-title"></h2>
+    <button class="chip round" id="p-next" aria-label="Next day">›</button>
+    <button class="chip round" id="p-close" aria-label="Close">✕</button>
+  </div>
+  <div id="panel-body"></div>
+</aside>
+
+<div id="hint">Scroll to zoom · drag to travel · click a day to open it</div>
+<script src="app.js" type="module"></script>
+</body>
+</html>

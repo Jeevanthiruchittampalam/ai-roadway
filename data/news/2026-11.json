@@ -1,0 +1,672 @@
+{
+ "2026-11-06": [
+  {
+   "t": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "u": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "s": "Hacker News",
+   "score": 4.3
+  },
+  {
+   "t": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "u": "https://openai.com/index/partnering-with-hacktron",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "AI is dramatically accelerating AI research",
+   "u": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "s": "Hacker News",
+   "score": 2.5
+  },
+  {
+   "t": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "u": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "s": "MIT Technology Review",
+   "score": 2
+  },
+  {
+   "t": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "u": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+   "s": "Ars Technica",
+   "score": 2
+  },
+  {
+   "t": "I struggle to believe that AI R&D is ingenious",
+   "u": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+   "s": "Hacker News",
+   "score": 1.9
+  },
+  {
+   "t": "Could potential AI clones of GTA VI force a quicker official port?",
+   "u": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+   "s": "Ars Technica",
+   "score": 1
+  }
+ ],
+ "2026-11-07": [
+  {
+   "t": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "u": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "s": "Hacker News",
+   "score": 6.5
+  },
+  {
+   "t": "The end of Microsoft Research's AI Frontiers group",
+   "u": "https://hunch.net/?p=13764006",
+   "s": "Hacker News",
+   "score": 4.1
+  }
+ ],
+ "2026-11-08": [
+  {
+   "t": "I'm not convinced the AI bubble exists",
+   "u": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
+   "s": "Hacker News",
+   "score": 3.3
+  },
+  {
+   "t": "How I'm fighting the AI brain fry",
+   "u": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "s": "Hacker News",
+   "score": 2.3
+  }
+ ],
+ "2026-11-09": [
+  {
+   "t": "Claude Fable 5.2 and Mythos 5.2",
+   "u": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "s": "Hacker News",
+   "score": 6
+  },
+  {
+   "t": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "u": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "s": "Google DeepMind",
+   "score": 4
+  },
+  {
+   "t": "Claude Code is accidentally exposing secrets all over GitHub",
+   "u": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+   "s": "Ars Technica",
+   "score": 4
+  },
+  {
+   "t": "ChatGPT Enterprise now available in AWS Marketplace",
+   "u": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "u": "https://openai.com/index/control-room",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "CodeRabbit scales agentic software development and ships 20x more",
+   "u": "https://openai.com/index/coderabbit-codex-daybreak",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Kuken Industries searches 70 years of drawings in minutes",
+   "u": "https://openai.com/index/kuken",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "u": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "s": "MIT Technology Review",
+   "score": 3
+  },
+  {
+   "t": "The backlash about data centers might really just be about electricity",
+   "u": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "s": "MIT Technology Review",
+   "score": 2
+  },
+  {
+   "t": "Innovating with AI in the special chemicals industry",
+   "u": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+   "s": "MIT Technology Review",
+   "score": 2
+  },
+  {
+   "t": "Nvidia CEO's affair becomes a national security problem",
+   "u": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+   "s": "Ars Technica",
+   "score": 2
+  }
+ ],
+ "2026-11-10": [
+  {
+   "t": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "u": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "s": "Google DeepMind",
+   "score": 5
+  },
+  {
+   "t": "Google Cloud launches Gemini for healthcare.",
+   "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "s": "Google AI",
+   "score": 5
+  },
+  {
+   "t": "Apple has new Mac app coming to make running local AI models easy",
+   "u": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "s": "Hacker News",
+   "score": 4.3
+  },
+  {
+   "t": "Introducing Businesses in ChatGPT",
+   "u": "https://openai.com/index/introducing-businesses-chatgpt",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "u": "https://openai.com/index/singapore-airlines-travel-work",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "u": "https://openai.com/index/cogent-security",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Gemini 4 Carbon is now available",
+   "u": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "s": "Google DeepMind",
+   "score": 4
+  },
+  {
+   "t": "Tracking Anthropic-discovered vulnerabilities",
+   "u": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "s": "Hacker News",
+   "score": 3.8
+  },
+  {
+   "t": "AI usage generates a fragile codebase",
+   "u": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "s": "Hacker News",
+   "score": 3.6
+  },
+  {
+   "t": "Helping caregivers use AI in everyday life",
+   "u": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Closing the AI guidance gap in education",
+   "u": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Work at the Frontier: AI’s effect on freelance work",
+   "u": "https://openai.com/index/ai-effect-on-freelance-work",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Opening the datasets behind our AI weather models",
+   "u": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "s": "Google DeepMind",
+   "score": 3
+  },
+  {
+   "t": "Gemini Intelligence: New features, on more devices",
+   "u": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "s": "Google AI",
+   "score": 3
+  },
+  {
+   "t": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "u": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "s": "Google AI",
+   "score": 3
+  }
+ ],
+ "2026-11-11": [
+  {
+   "t": "My AI agents found an unmapped Maya site?",
+   "u": "https://pietromiotti.com/latest/maya-site",
+   "s": "Hacker News",
+   "score": 5
+  },
+  {
+   "t": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "u": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "s": "Hacker News",
+   "score": 4.7
+  },
+  {
+   "t": "ChatGPT Plus for veterans and servicemembers",
+   "u": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "u": "https://openai.com/index/jiostar-vijay-seshadri",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "s": "Google DeepMind",
+   "score": 3
+  },
+  {
+   "t": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "u": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "s": "Google AI",
+   "score": 3
+  },
+  {
+   "t": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+   "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "s": "Google AI",
+   "score": 2
+  },
+  {
+   "t": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "s": "Google AI",
+   "score": 2
+  },
+  {
+   "t": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+   "u": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+   "s": "Ars Technica",
+   "score": 2
+  },
+  {
+   "t": "Google DeepMind just mathematically verified key parts of Signal",
+   "u": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+   "s": "Ars Technica",
+   "score": 2
+  },
+  {
+   "t": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+   "u": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+   "s": "Ars Technica",
+   "score": 1
+  }
+ ],
+ "2026-11-12": [
+  {
+   "t": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
+   "u": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
+   "s": "The Guardian",
+   "score": 7
+  },
+  {
+   "t": "Anthropic IPO",
+   "u": "https://ipo.anthropic.com/us/",
+   "s": "Hacker News",
+   "score": 7
+  },
+  {
+   "t": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "u": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "s": "Google AI",
+   "score": 6
+  },
+  {
+   "t": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+   "u": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+   "s": "Wired",
+   "score": 6
+  },
+  {
+   "t": "Introducing Gemini 4 Hydrogen",
+   "u": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "s": "Google DeepMind",
+   "score": 5
+  },
+  {
+   "t": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+   "u": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+   "s": "Ars Technica",
+   "score": 5
+  },
+  {
+   "t": "Gemini 4 Hydrogen",
+   "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "s": "Hacker News",
+   "score": 4.3
+  },
+  {
+   "t": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "u": "https://openai.com/business/customer-stories/amplitude",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Gilbert + Tobin rethinks the business of law with AI",
+   "u": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+   "u": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+   "s": "Ars Technica",
+   "score": 4
+  },
+  {
+   "t": "Gondola doubles revenue as its team builds more with Codex",
+   "u": "https://openai.com/business/customer-stories/gondola",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Holiday Extras is rethinking what it can build with Codex",
+   "u": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Supporting research on AI and children’s safety",
+   "u": "https://openai.com/index/children-first-declaration",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "u": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "s": "MIT Technology Review",
+   "score": 3
+  },
+  {
+   "t": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "u": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "s": "TechCrunch",
+   "score": 3
+  }
+ ],
+ "2026-11-13": [
+  {
+   "t": "Introducing ChatGPT Wallet",
+   "u": "https://openai.com/index/introducing-chatgpt-wallet",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "u": "https://openai.com/business/customer-stories/shield",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "s": "The Verge",
+   "score": 4
+  },
+  {
+   "t": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "u": "https://status.claude.com/incidents/nn11wk485zfn",
+   "s": "Hacker News",
+   "score": 4
+  },
+  {
+   "t": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
+   "t": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+   "u": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
+   "t": "Why the Nvidia scandal is far from over - The Latest",
+   "u": "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
+   "t": "Have we finally found a valid use case for AI? Meet Pino the autonomous virtual kiwi | First Dog on the Moon",
+   "u": "https://www.theguardian.com/commentisfree/picture/2026/nov/13/have-we-finally-found-a-valid-use-case-for-ai-meet-pino-the-autonomous-virtual-kiwi",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
+   "t": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "u": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "s": "TechCrunch",
+   "score": 3
+  },
+  {
+   "t": "Jensen Huang didn’t show confidence in his successor, report says",
+   "u": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+   "s": "TechCrunch",
+   "score": 3
+  },
+  {
+   "t": "Jensen Huang and the End of the Founder Fairy Tale",
+   "u": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+   "s": "Wired",
+   "score": 3
+  },
+  {
+   "t": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "u": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "s": "Hacker News",
+   "score": 2.9
+  },
+  {
+   "t": "AI is destroying the trust between writers and readers",
+   "u": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+   "s": "Hacker News",
+   "score": 2.5
+  },
+  {
+   "t": "The Guardian view on M John Harrison’s Booker win: a new frontier for science fiction | Editorial",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "How it feels to battle with a flood of AI-generated complaints | Letters",
+   "u": "https://www.theguardian.com/technology/2026/nov/13/how-it-feels-to-battle-with-a-flood-of-ai-generated-complaints",
+   "s": "The Guardian",
+   "score": 2
+  }
+ ],
+ "2026-11-14": [
+  {
+   "t": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "s": "TechCrunch",
+   "score": 8
+  },
+  {
+   "t": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "u": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "s": "TechCrunch",
+   "score": 6
+  },
+  {
+   "t": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "u": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "s": "Hacker News",
+   "score": 6
+  },
+  {
+   "t": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "u": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "s": "The Verge",
+   "score": 3
+  },
+  {
+   "t": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "‘The social contract is broken’: young people on feeling shut out of careers",
+   "u": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "‘It’s like the wild west’: how AI has rocked the literary world",
+   "u": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "u": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "s": "The Verge",
+   "score": 2
+  },
+  {
+   "t": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "u": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "s": "TechCrunch",
+   "score": 1
+  },
+  {
+   "t": "Beware the New AI-Fueled Ransomware Boom",
+   "u": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+   "s": "Wired",
+   "score": 1
+  },
+  {
+   "t": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+   "u": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+   "s": "Wired",
+   "score": 1
+  }
+ ],
+ "2026-11-15": [
+  {
+   "t": "All AI-generated code should be Open Source",
+   "u": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "s": "Hacker News",
+   "score": 5
+  },
+  {
+   "t": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "u": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "s": "The Verge",
+   "score": 4
+  },
+  {
+   "t": "A step toward defining the Standard Model on a lattice",
+   "u": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Our new blog for science",
+   "u": "https://openai.com/index/our-new-blog-for-science",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "s": "The Verge",
+   "score": 3
+  },
+  {
+   "t": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-civil-service-reform-ai-cannot-conjure-a-capable-state-on-its-own",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+   "u": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+   "u": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Where was Nvidia’s security team?",
+   "u": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "s": "TechCrunch",
+   "score": 2
+  },
+  {
+   "t": "Understanding Positional Embeddings in Modern LLMs",
+   "u": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "s": "Hacker News",
+   "score": 1.9
+  },
+  {
+   "t": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "u": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "s": "TechCrunch",
+   "score": 1
+  },
+  {
+   "t": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "u": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "s": "TechCrunch",
+   "score": 1
+  },
+  {
+   "t": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "u": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "s": "TechCrunch",
+   "score": 1
+  },
+  {
+   "t": "An overview of Jensen Huang’s messy days",
+   "u": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "s": "The Verge",
+   "score": 1
+  }
+ ],
+ "2026-11-16": [
+  {
+   "t": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+   "u": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+   "s": "The Guardian",
+   "score": 5
+  },
+  {
+   "t": "Apple launches new app to study how people use AI for health",
+   "u": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "s": "TechCrunch",
+   "score": 5
+  },
+  {
+   "t": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "u": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "s": "The Verge",
+   "score": 4
+  },
+  {
+   "t": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+   "u": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+   "s": "The Guardian",
+   "score": 2
+  }
+ ]
+}

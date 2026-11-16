@@ -1,0 +1,39 @@
+{
+ "updated": "2026-11-16T04:17:58.708Z",
+ "firstDay": "2026-11-06",
+ "months": [
+  "2026-11"
+ ],
+ "big": {
+  "d": "2026-11-14",
+  "t": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+  "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+  "s": "TechCrunch"
+ },
+ "runnersUp": [
+  {
+   "d": "2026-11-12",
+   "t": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
+   "u": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
+   "s": "The Guardian"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "Anthropic IPO",
+   "u": "https://ipo.anthropic.com/us/",
+   "s": "Hacker News"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "u": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "s": "TechCrunch"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "u": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "s": "Hacker News"
+  }
+ ]
+}
