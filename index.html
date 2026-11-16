@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
 <title>AI Roadway — where are we on the road to superintelligence?</title>
 <meta name="description" content="A zoomable cartoon timeline of AI: every milestone so far, fresh AI news every day, and bold predictions for the road ahead.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛣️</text></svg>">
@@ -28,19 +28,19 @@
 
 <div id="controls">
   <button id="next-pred" class="chip pred-chip" hidden></button>
-  <div class="row">
+  <div class="row seg">
     <button class="chip" data-zoom="era" title="Whole road">Era</button>
     <button class="chip" data-zoom="decade">Decade</button>
     <button class="chip" data-zoom="year">Year</button>
     <button class="chip" data-zoom="month">Month</button>
     <button class="chip" data-zoom="day">Day</button>
   </div>
-  <div class="row">
+  <div class="row tools">
     <button class="chip round" id="zoom-out" aria-label="Zoom out">−</button>
     <button class="chip round" id="zoom-in" aria-label="Zoom in">+</button>
     <button class="chip" id="go-today">🚗 Today</button>
     <button class="chip" id="show-preds">🔮 Predictions</button>
-    <input class="chip" id="jump" type="date" min="1950-01-01" max="2159-12-31" aria-label="Jump to date">
+    <label class="chip datechip" title="Jump to a date"><span>📅</span><input id="jump" type="date" min="1950-01-01" max="2159-12-31" aria-label="Jump to date"></label>
   </div>
 </div>
 

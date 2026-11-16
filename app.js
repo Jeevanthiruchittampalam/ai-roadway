@@ -16,7 +16,7 @@ const $ = s => document.querySelector(s);
 const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
 
 const cv = $('#road'), ctx = cv.getContext('2d'), pinsEl = $('#pins');
-let W = 0, H = 0, dpr = 1, RW = 44, baseY = 0, amp = 30;
+let W = 0, H = 0, dpr = 1, RW = 44, baseY = 0, amp = 30, bot = 0, topPad = 100, compact = false;
 const view = { c: TODAY, ppd: 1 };   // centre day (float) and pixels per day
 let pan = 0;                          // accumulated pan in px; drives scenery parallax
 let events = [], newsIdx = null, dirty = true, anim = null;
@@ -51,13 +51,22 @@ function resize() {
   dpr = Math.min(window.devicePixelRatio || 1, 2);
   W = innerWidth; H = innerHeight;
   cv.width = W * dpr; cv.height = H * dpr;
-  RW = clamp(H * 0.065, 32, 52); baseY = H * 0.56; amp = clamp(H * 0.045, 12, 34);
+  // phones: toolbar docks to the bottom, the day sheet slides over it, and the road sits in what is left
+  compact = W < 720;
+  const sheet = compact && !$('#panel').hidden;
+  document.body.classList.toggle('sheet-open', sheet);
+  bot = !compact ? 0 : sheet ? $('#panel').offsetHeight : $('#controls').offsetHeight;
+  topPad = !compact ? 100 : sheet ? 52 : $('#bignews').getBoundingClientRect().bottom + 6;
+  document.documentElement.style.setProperty('--bot', bot + 'px');
+  RW = compact ? 38 : clamp(H * 0.065, 32, 52);
+  baseY = compact ? topPad + (H - bot - 46 - topPad) * 0.52 : H * 0.56;
+  amp = compact ? clamp((H - bot - topPad) * 0.03, 8, 20) : clamp(H * 0.045, 12, 34);
   if (!W) return;
   if (!inited) {   // first time we know the real width: frame "a few years back, a decade ahead"
     inited = true;
     const m = location.hash.match(/^#(\d{4}-\d{2}-\d{2})$/);
     if (m) { view.c = toDay(m[1]) + 0.5; view.ppd = 80; }
-    else { view.c = TODAY + 365 * 1.5; view.ppd = spanToPpd(365.25 * (W < 720 ? 9 : 16)); }
+    else { view.c = TODAY + 365 * (compact ? 1 : 1.5); view.ppd = spanToPpd(365.25 * (compact ? 6 : 16)); }
   }
   view.ppd = clamp(view.ppd, minPpd(), MAXPPD);
   dirty = true;
@@ -177,8 +186,8 @@ function draw() {
 }
 
 function drawAxis(d0, d1) {
-  const ppd = view.ppd, top = H - 46;
-  ctx.fillStyle = 'rgba(43,43,58,.82)'; ctx.fillRect(0, top, W, 46);
+  const ppd = view.ppd, top = H - bot - 46;
+  ctx.fillStyle = 'rgba(43,43,58,.82)'; ctx.fillRect(0, top, W, 46 + bot);
   ctx.textBaseline = 'middle'; ctx.textAlign = 'center';
   const tick = (x, big) => { ctx.fillStyle = big ? 'rgba(255,255,255,.7)' : 'rgba(255,255,255,.3)'; ctx.fillRect(x, top, big ? 2 : 1, big ? 46 : 8); };
   const ctxLabel = (x, text) => { ctx.font = '700 13px Fredoka, sans-serif'; ctx.fillStyle = '#ffd84d'; ctx.textAlign = 'left'; ctx.fillText(text, x + 7, top + 13); ctx.textAlign = 'center'; };
@@ -223,17 +232,17 @@ function buildPins() {
     const b = el('button', 'bubble'); b.type = 'button'; b.title = `${ev.t} — ${fmt(ev.day)}`;
     const lbl = el('span', 'lbl'); lbl.append(el('b', '', ev.t), el('i', '', (ev.pred ? '🔮 ' : '') + fmt(ev.day)));
     b.append(el('span', 'emo', ev.e), lbl);
-    b.addEventListener('click', () => { openDay(ev.day); if (view.ppd < 26) flyTo(ev.day + 0.5, Math.max(view.ppd, Math.min(40, view.ppd * 6))); });
+    b.addEventListener('click', () => { if (moved > 6) return; openDay(ev.day); if (view.ppd < 26) flyTo(ev.day + 0.5, Math.max(view.ppd, Math.min(40, view.ppd * 6))); });
     pin.append(el('span', 'stem'), b); pin.style.display = 'none';
     pinsEl.append(pin); ev.el = pin;
-    ev.bw = 52 + Math.min(200, Math.max(ev.t.length * 7.5, 92));
   });
 }
+const bubbleW = ev => compact ? 46 + clamp(ev.t.length * 6.7, 80, 136) : 52 + clamp(ev.t.length * 7.5, 92, 200);
 function layoutPins() {
-  const half = RW / 2, STEP = 62, FIRST = half + 16;
-  const upLv = clamp(Math.floor((baseY - amp - FIRST - 150) / STEP) + 1, 1, 3);
-  const dnLv = clamp(Math.floor((H - 50 - baseY - amp - FIRST - 48) / STEP) + 1, 1, 3);
-  const occ = {}, anchors = [], vis = [];
+  const half = RW / 2, STEP = compact ? 54 : 62, FIRST = half + 16, maxLv = compact ? 4 : 3, gap = compact ? 30 : 20;
+  const upLv = clamp(Math.floor((baseY - amp - FIRST - topPad - 46) / STEP) + 1, 1, maxLv);
+  const dnLv = clamp(Math.floor((H - bot - 46 - baseY - amp - FIRST - 50) / STEP) + 1, 1, maxLv);
+  const xT = X(TODAY + 0.5), occ = { up0: [[xT - 34, xT + 34]] }, anchors = [], vis = [];   // keep the TODAY flag clear
   const free = (key, l, r) => (occ[key] || (occ[key] = [])).every(([a, b]) => r < a || l > b);
   for (const ev of events) {
     const x = X(ev.day + 0.5);
@@ -242,9 +251,9 @@ function layoutPins() {
   }
   vis.sort((a, b) => b[0].w - a[0].w || a[0].day - b[0].day);
   for (const [ev, x] of vis) {
-    const hw = ev.bw / 2 + 6, sides = ev.side ? ['up', 'down'] : ['down', 'up'];
+    const hw = bubbleW(ev) / 2 + 6, sides = ev.side ? ['up', 'down'] : ['down', 'up'];
     let spot = null;
-    find: for (let lv = 0; lv < 3; lv++) for (const side of sides) {
+    find: for (let lv = 0; lv < maxLv; lv++) for (const side of sides) {
       if (lv >= (side === 'up' ? upLv : dnLv)) continue;
       if (!free(side + lv, x - hw, x + hw)) continue;
       let clear = true;
@@ -256,7 +265,7 @@ function layoutPins() {
     }
     let cls = `pin ${ev.pred ? 'pred' : 'past'} `;
     if (spot) { cls += spot.side; ev.el.style.setProperty('--stem', `${FIRST + spot.lv * STEP}px`); anchors.push(x); }
-    else if (anchors.every(a => Math.abs(a - x) > 20)) { cls += 'mini'; anchors.push(x); }
+    else if (anchors.every(a => Math.abs(a - x) > gap)) { cls += 'mini'; anchors.push(x); }
     else { if (ev.shown) { ev.el.style.display = 'none'; ev.shown = false; } continue; }
     if (ev.el.className !== cls) ev.el.className = cls;
     ev.el.style.transform = `translate(${x.toFixed(1)}px,${roadY(x).toFixed(1)}px)`;
@@ -297,14 +306,20 @@ function frame(t) {
 /* ---------- pointer, wheel, keyboard ---------- */
 const ptrs = new Map(); let moved = 0, lastPinch = 0;
 const pinchInfo = () => { const [a, b] = [...ptrs.values()]; return { d: Math.hypot(a.x - b.x, a.y - b.y), x: (a.x + b.x) / 2 }; };
-cv.addEventListener('pointerdown', e => {
-  cv.setPointerCapture(e.pointerId); ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
-  anim = null; if (ptrs.size === 1) moved = 0; else { moved = 99; lastPinch = pinchInfo().d; }
+let onCanvas = false;
+const down = e => {
+  if (e.pointerType === 'mouse' && e.button !== 0) return;
+  ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY }); anim = null;
+  if (ptrs.size === 1) { moved = 0; onCanvas = e.target === cv; } else { moved = 99; lastPinch = pinchInfo().d; }
   cv.classList.add('dragging'); $('#hint').classList.add('gone');
-});
-cv.addEventListener('pointermove', e => {
+};
+cv.addEventListener('pointerdown', down); pinsEl.addEventListener('pointerdown', down);
+addEventListener('pointermove', e => {
   const p = ptrs.get(e.pointerId);
-  if (!p) { const h = view.ppd >= 12 ? Math.floor(dayAt(e.clientX)) : null; if (h !== hoverDay) { hoverDay = h; dirty = true; } return; }
+  if (!p) {
+    const h = e.target === cv && e.pointerType === 'mouse' && view.ppd >= 12 ? Math.floor(dayAt(e.clientX)) : null;
+    if (h !== hoverDay) { hoverDay = h; dirty = true; } return;
+  }
   const dx = e.clientX - p.x; p.x = e.clientX; p.y = e.clientY;
   if (ptrs.size === 1) { moved += Math.abs(dx); panBy(-dx); }
   else if (ptrs.size === 2) { const pi = pinchInfo(); if (lastPinch) zoomAt(pi.x, pi.d / lastPinch); lastPinch = pi.d; panBy(-dx / 2); }
@@ -313,13 +328,13 @@ const up = e => {
   if (!ptrs.has(e.pointerId)) return;
   const single = ptrs.size === 1; ptrs.delete(e.pointerId); lastPinch = 0;
   if (!ptrs.size) cv.classList.remove('dragging');
-  if (single && moved < 6 && e.type === 'pointerup') {
+  if (single && moved < 6 && onCanvas && e.type === 'pointerup') {
     if (view.ppd >= 12) openDay(Math.floor(dayAt(e.clientX)));
     else flyTo(dayAt(e.clientX), view.ppd * 3.5, 500);
   }
 };
-cv.addEventListener('pointerup', up); cv.addEventListener('pointercancel', up);
-cv.addEventListener('pointerleave', () => { if (hoverDay != null) { hoverDay = null; dirty = true; } });
+addEventListener('pointerup', up); addEventListener('pointercancel', up);
+addEventListener('gesturestart', e => e.preventDefault());   // stop Safari zooming the whole page
 const onWheel = e => {
   e.preventDefault(); anim = null; $('#hint').classList.add('gone');
   if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) panBy(e.deltaX);
@@ -372,7 +387,7 @@ function eventCard(ev) {
 }
 async function openDay(d, pushHash = true) {
   d = clamp(d, MIN, MAX - 1); selDay = d; dirty = true;
-  const body = $('#panel-body'); $('#panel').hidden = false; $('#panel').dataset.mode = 'day';
+  const body = $('#panel-body'); $('#panel').hidden = false; $('#panel').dataset.mode = 'day'; resize();
   $('#p-title').textContent = fmtLong(d); $('#p-prev').hidden = $('#p-next').hidden = false;
   if (pushHash) history.replaceState(null, '', `#${iso(d)}`);
   const key = monthKey(d);
@@ -404,7 +419,7 @@ async function openDay(d, pushHash = true) {
 }
 function openPredictions() {
   selDay = null; dirty = true;
-  $('#panel').hidden = false; $('#panel').dataset.mode = 'list';
+  $('#panel').hidden = false; $('#panel').dataset.mode = 'list'; resize();
   $('#p-title').textContent = '🔮 The road ahead'; $('#p-prev').hidden = $('#p-next').hidden = true;
   const body = $('#panel-body'); body.replaceChildren();
   body.append(el('p', 'fine', 'These dates are playful guesses about the future, not facts or forecasts from experts. Tap one to drive there.'));
@@ -417,7 +432,7 @@ function openPredictions() {
   }
   body.append(list);
 }
-function closePanel() { $('#panel').hidden = true; selDay = null; dirty = true; history.replaceState(null, '', location.pathname + location.search); }
+function closePanel() { $('#panel').hidden = true; resize(); selDay = null; dirty = true; history.replaceState(null, '', location.pathname + location.search); }
 
 /* ---------- controls ---------- */
 $('#p-close').onclick = closePanel;
@@ -433,6 +448,7 @@ document.querySelectorAll('[data-zoom]').forEach(b => b.onclick = () => { const 
 
 /* ---------- boot ---------- */
 async function boot() {
+  if (matchMedia('(pointer:coarse)').matches) $('#hint').textContent = 'Pinch to zoom · swipe to travel · tap a day to open it';
   resize();
   requestAnimationFrame(frame);
   events = await fetch('data/events.json').then(r => r.json());
@@ -448,7 +464,7 @@ async function boot() {
   if (asi && asi.day > TODAY) $('#tagline').textContent = `${(asi.day - TODAY).toLocaleString()} days to predicted superintelligence`;
 
   try { newsIdx = await fetch(`data/news/index.json?v=${Date.now()}`).then(r => r.ok ? r.json() : null); } catch { newsIdx = null; }
-  showBigNews(); dirty = true;
+  showBigNews(); resize();
 
   const m = location.hash.match(/^#(\d{4}-\d{2}-\d{2})$/);
   if (m) openDay(toDay(m[1]), false);
