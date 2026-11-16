@@ -460,7 +460,7 @@ async function boot() {
     chip.textContent = `🔮 Next: ${next.t} ${untilText(next.day)}`;
     chip.onclick = () => { flyTo(next.day + 0.5, 40, 1000); openDay(next.day); };
   }
-  const asi = events.find(e => /superintelligence/i.test(e.t));
+  const asi = events.find(e => e.pred && /^Superintelligence/.test(e.t));
   if (asi && asi.day > TODAY) $('#tagline').textContent = `${(asi.day - TODAY).toLocaleString()} days to predicted superintelligence`;
 
   try { newsIdx = await fetch(`data/news/index.json?v=${Date.now()}`).then(r => r.ok ? r.json() : null); } catch { newsIdx = null; }
