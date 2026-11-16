@@ -451,7 +451,7 @@ async function boot() {
   if (matchMedia('(pointer:coarse)').matches) $('#hint').textContent = 'Pinch to zoom · swipe to travel · tap a day to open it';
   resize();
   requestAnimationFrame(frame);
-  events = await fetch('data/events.json').then(r => r.json());
+  events = await fetch('data/events.json', { cache: 'no-cache' }).then(r => r.json());   // always pick up newly added signposts
   buildPins(); dirty = true;
 
   const next = events.filter(e => e.pred && e.day >= TODAY).sort((a, b) => a.day - b.day)[0];
@@ -471,4 +471,5 @@ async function boot() {
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => dirty = true);
   setTimeout(() => $('#hint').classList.add('gone'), 9000);
 }
+addEventListener('hashchange', () => { const m = location.hash.match(/^#(\d{4}-\d{2}-\d{2})$/); if (m && toDay(m[1]) !== selDay) { const d = toDay(m[1]); flyTo(d + 0.5, 80, 900); openDay(d, false); } });
 boot();
