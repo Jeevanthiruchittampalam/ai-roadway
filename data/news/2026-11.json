@@ -91,6 +91,12 @@
    "score": 4
   },
   {
+   "t": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+   "u": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "s": "Hacker News",
+   "score": 3.5
+  },
+  {
    "t": "ChatGPT Enterprise now available in AWS Marketplace",
    "u": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "s": "OpenAI",
@@ -681,15 +687,15 @@
    "score": 10
   },
   {
-   "t": "The open-source movement wants Jensen Huang back",
-   "u": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-   "s": "MIT Technology Review",
-   "score": 8
-  },
-  {
    "t": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
    "u": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
    "s": "TechCrunch",
+   "score": 10
+  },
+  {
+   "t": "The open-source movement wants Jensen Huang back",
+   "u": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+   "s": "MIT Technology Review",
    "score": 8
   },
   {
@@ -737,8 +743,50 @@
  ],
  "2026-11-17": [
   {
+   "t": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+   "u": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+   "s": "The Guardian",
+   "score": 11
+  },
+  {
+   "t": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
+   "u": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
+   "s": "The Guardian",
+   "score": 11
+  },
+  {
+   "t": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "u": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+   "s": "TechCrunch",
+   "score": 11
+  },
+  {
+   "t": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "u": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "s": "TechCrunch",
+   "score": 10
+  },
+  {
+   "t": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "u": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+   "s": "The Verge",
+   "score": 10
+  },
+  {
+   "t": "Introducing OpenAI for Chile",
+   "u": "https://openai.com/index/introducing-openai-for-chile",
+   "s": "OpenAI",
+   "score": 5
+  },
+  {
    "t": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
    "u": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+   "s": "The Guardian",
+   "score": 4
+  },
+  {
+   "t": "Anthropic IPO: how can I buy shares, and is it worth it?",
+   "u": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
    "s": "The Guardian",
    "score": 4
   },
@@ -749,9 +797,39 @@
    "score": 3
   },
   {
+   "t": "Put Gemini to work for you",
+   "u": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "s": "Google AI",
+   "score": 3
+  },
+  {
+   "t": "Google makes it easier to use Gemini without training AI on your data",
+   "u": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "s": "Ars Technica",
+   "score": 3
+  },
+  {
+   "t": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+   "u": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+   "s": "Wired",
+   "score": 3
+  },
+  {
+   "t": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+   "u": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+   "s": "Wired",
+   "score": 3
+  },
+  {
    "t": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
    "u": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
    "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Research Reports",
+   "u": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "s": "MIT Technology Review",
    "score": 2
   }
  ]
