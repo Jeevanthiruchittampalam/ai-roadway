@@ -645,6 +645,24 @@
  ],
  "2026-11-16": [
   {
+   "t": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+   "u": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+   "s": "The Guardian",
+   "score": 13
+  },
+  {
+   "t": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "u": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "s": "Ars Technica",
+   "score": 12
+  },
+  {
+   "t": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "u": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+   "s": "The Verge",
+   "score": 12
+  },
+  {
    "t": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
    "u": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
    "s": "The Guardian",
@@ -657,22 +675,40 @@
    "score": 10
   },
   {
-   "t": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-   "u": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-   "s": "Ars Technica",
-   "score": 10
-  },
-  {
    "t": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
    "u": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
    "s": "Wired",
    "score": 10
   },
   {
-   "t": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-   "u": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+   "t": "The open-source movement wants Jensen Huang back",
+   "u": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+   "s": "MIT Technology Review",
+   "score": 8
+  },
+  {
+   "t": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+   "u": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+   "s": "TechCrunch",
+   "score": 8
+  },
+  {
+   "t": "California sues OpenAI over safety concerns after rogue agent hacking",
+   "u": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
    "s": "The Guardian",
-   "score": 9
+   "score": 7
+  },
+  {
+   "t": "California state AG sues OpenAI over rogue agent incidents",
+   "u": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "s": "TechCrunch",
+   "score": 6
+  },
+  {
+   "t": "California sues OpenAI over rogue AI hacking incidents",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+   "s": "The Verge",
+   "score": 6
   },
   {
    "t": "Apple launches new app to study how people use AI for health",
@@ -697,42 +733,26 @@
    "u": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
    "s": "The Verge",
    "score": 4
-  },
+  }
+ ],
+ "2026-11-17": [
   {
-   "t": "Our first phase of embedded assessments",
-   "u": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-   "s": "OpenAI",
+   "t": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
+   "u": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+   "s": "The Guardian",
    "score": 4
   },
   {
-   "t": "Google Maps can now build trip itineraries with real-time details about each stop",
-   "u": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-   "s": "TechCrunch",
-   "score": 4
-  },
-  {
-   "t": "Google Maps can now create trip itineraries for you",
-   "u": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-   "s": "The Verge",
-   "score": 4
-  },
-  {
-   "t": "Broadening access to AI for scientists",
-   "u": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "t": "Strengthening NATO and allied cyber defenses with AI",
+   "u": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
    "s": "OpenAI",
    "score": 3
   },
   {
-   "t": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "u": "https://openai.com/index/strengthening-online-child-safety",
-   "s": "OpenAI",
-   "score": 3
-  },
-  {
-   "t": "Science at the Frontier: How scientists use ChatGPT",
-   "u": "https://openai.com/index/science-at-the-frontier",
-   "s": "OpenAI",
-   "score": 3
+   "t": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
+   "s": "The Guardian",
+   "score": 2
   }
  ]
 }

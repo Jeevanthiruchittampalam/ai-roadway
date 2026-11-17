@@ -1,22 +1,16 @@
 {
- "updated": "2026-11-16T18:30:24.212Z",
+ "updated": "2026-11-17T07:51:46.547Z",
  "firstDay": "2026-11-06",
  "months": [
   "2026-11"
  ],
  "big": {
   "d": "2026-11-16",
-  "t": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-  "u": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+  "t": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+  "u": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
   "s": "The Guardian"
  },
  "runnersUp": [
-  {
-   "d": "2026-11-16",
-   "t": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-   "u": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-   "s": "TechCrunch"
-  },
   {
    "d": "2026-11-16",
    "t": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -25,15 +19,21 @@
   },
   {
    "d": "2026-11-16",
-   "t": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-   "u": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-   "s": "Wired"
+   "t": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "u": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+   "s": "The Verge"
   },
   {
-   "d": "2026-11-15",
-   "t": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-   "u": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-   "s": "The Verge"
+   "d": "2026-11-16",
+   "t": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+   "u": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+   "s": "The Guardian"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "u": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "s": "TechCrunch"
   }
  ]
 }
