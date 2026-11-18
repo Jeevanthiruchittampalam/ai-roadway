@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:37:35.598Z",
+ "updated": "2026-11-18T07:23:28.191Z",
  "firstDay": "2026-11-06",
  "months": [
   "2026-11"
@@ -12,6 +12,18 @@
  },
  "runnersUp": [
   {
+   "d": "2026-11-17",
+   "t": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "u": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "s": "TechCrunch"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+   "u": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+   "s": "Wired"
+  },
+  {
    "d": "2026-11-16",
    "t": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
    "u": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
@@ -22,18 +34,6 @@
    "t": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
    "u": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
    "s": "The Verge"
-  },
-  {
-   "d": "2026-11-17",
-   "t": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-   "u": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-   "s": "The Guardian"
-  },
-  {
-   "d": "2026-11-17",
-   "t": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
-   "u": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
-   "s": "The Guardian"
   }
  ]
 }
