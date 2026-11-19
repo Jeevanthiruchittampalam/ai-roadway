@@ -847,6 +847,12 @@
    "score": 6
   },
   {
+   "t": "Gemini 4 Neon",
+   "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "s": "Hacker News",
+   "score": 5.9
+  },
+  {
    "t": "Introducing Gemini 4 Neon",
    "u": "https://deepmind.google/blog/introducing-gemini-4-neon/",
    "s": "Google DeepMind",
@@ -859,12 +865,6 @@
    "score": 5
   },
   {
-   "t": "Gemini 4 Neon",
-   "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "s": "Hacker News",
-   "score": 4.9
-  },
-  {
    "t": "Google's AI answers reducing search traffic by 40%",
    "u": "https://revscope.co/blog/search-seo-geo-2026/",
    "s": "Hacker News",
@@ -874,7 +874,7 @@
    "t": "AI is killing All About Berlin",
    "u": "https://nicolasbouliane.com/blog/death-by-ai",
    "s": "Hacker News",
-   "score": 4.1
+   "score": 4.2
   },
   {
    "t": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
@@ -887,6 +887,12 @@
    "u": "https://openai.com/index/advancing-chip-design-with-our-models",
    "s": "OpenAI",
    "score": 4
+  },
+  {
+   "t": "Anthropic prices initial public offering",
+   "u": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "s": "Hacker News",
+   "score": 3.5
   },
   {
    "t": "The Gemini app is now available on lower-memory Android devices.",
@@ -923,15 +929,57 @@
    "u": "https://openai.com/index/managing-frontier-ai-risk",
    "s": "OpenAI",
    "score": 3
-  },
-  {
-   "t": "Genie 4 is now available",
-   "u": "https://deepmind.google/blog/genie-4-is-now-available/",
-   "s": "Google DeepMind",
-   "score": 3
   }
  ],
  "2026-11-19": [
+  {
+   "t": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+   "u": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "s": "TechCrunch",
+   "score": 5
+  },
+  {
+   "t": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
+   "u": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+   "s": "The Guardian",
+   "score": 4
+  },
+  {
+   "t": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+   "u": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
+   "s": "The Guardian",
+   "score": 4
+  },
+  {
+   "t": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+   "u": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+   "s": "Wired",
+   "score": 4
+  },
+  {
+   "t": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
+   "t": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
+   "u": "https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
+   "t": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+   "u": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+   "s": "TechCrunch",
+   "score": 3
+  },
+  {
+   "t": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+   "s": "The Verge",
+   "score": 3
+  },
   {
    "t": "Ram through datacentres no one wants and hope the AI bubble never bursts: that’s the UK’s growth plan | George Monbiot",
    "u": "https://www.theguardian.com/commentisfree/2026/nov/19/uk-growth-plan-datacentres-ai-bubble-big-tech",
@@ -948,6 +996,30 @@
    "t": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
    "u": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
    "s": "TechCrunch",
+   "score": 2
+  },
+  {
+   "t": "Walter Isaacson on curiosity and creativity in the AI age.",
+   "u": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "s": "Google AI",
+   "score": 2
+  },
+  {
+   "t": "AI demand will push up interest rates around the world, IMF head warns",
+   "u": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "A random encounter with James McAvoy triggers delusional fantasy in Parasocial Activity",
+   "u": "https://www.theguardian.com/stage/2026/nov/19/parasocial-activity-review-a-james-mcavoy-obsession-oran-mor-glasgow",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+   "s": "The Guardian",
    "score": 2
   }
  ]
