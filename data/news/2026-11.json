@@ -850,7 +850,7 @@
    "t": "Gemini 4 Neon",
    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
    "s": "Hacker News",
-   "score": 5.9
+   "score": 6
   },
   {
    "t": "Introducing Gemini 4 Neon",
@@ -892,7 +892,7 @@
    "t": "Anthropic prices initial public offering",
    "u": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
    "s": "Hacker News",
-   "score": 3.5
+   "score": 3.7
   },
   {
    "t": "The Gemini app is now available on lower-memory Android devices.",
@@ -933,6 +933,24 @@
  ],
  "2026-11-19": [
   {
+   "t": "Anthropic’s Nasdaq debut",
+   "u": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "s": "Hacker News",
+   "score": 7
+  },
+  {
+   "t": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+   "u": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+   "s": "Wired",
+   "score": 6
+  },
+  {
+   "t": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+   "s": "The Guardian",
+   "score": 6
+  },
+  {
    "t": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
    "u": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
    "s": "TechCrunch",
@@ -942,7 +960,7 @@
    "t": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
    "u": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
    "s": "The Guardian",
-   "score": 4
+   "score": 5
   },
   {
    "t": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
@@ -951,76 +969,102 @@
    "score": 4
   },
   {
-   "t": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-   "u": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-   "s": "Wired",
+   "t": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "u": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "s": "OpenAI",
    "score": 4
   },
   {
-   "t": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+   "t": "Introducing Tool Retrieval in the Gemini API",
+   "u": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "s": "Google AI",
+   "score": 4
+  },
+  {
+   "t": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+   "u": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
    "s": "The Guardian",
-   "score": 3
+   "score": 4
+  },
+  {
+   "t": "Meta’s new Muse Charm device may cost $300",
+   "u": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "s": "TechCrunch",
+   "score": 4
+  },
+  {
+   "t": "Meta’s Muse Charm might cost $300",
+   "u": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+   "s": "The Verge",
+   "score": 4
+  },
+  {
+   "t": "Anthropic starts trading on Wall Street",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+   "s": "The Verge",
+   "score": 4
+  },
+  {
+   "t": "Claude solves two open problems in the physics of black holes",
+   "u": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "s": "Hacker News",
+   "score": 3.8
+  },
+  {
+   "t": "Fuck Your AI Safeguards",
+   "u": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+   "s": "Hacker News",
+   "score": 3.1
   },
   {
    "t": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
    "u": "https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside",
    "s": "The Guardian",
    "score": 3
-  },
+  }
+ ],
+ "2026-11-20": [
   {
-   "t": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-   "u": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+   "t": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "u": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
    "s": "TechCrunch",
-   "score": 3
+   "score": 6
   },
   {
-   "t": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-   "u": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-   "s": "The Verge",
-   "score": 3
+   "t": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
+   "u": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
+   "s": "The Guardian",
+   "score": 5
   },
   {
-   "t": "Ram through datacentres no one wants and hope the AI bubble never bursts: that’s the UK’s growth plan | George Monbiot",
-   "u": "https://www.theguardian.com/commentisfree/2026/nov/19/uk-growth-plan-datacentres-ai-bubble-big-tech",
+   "t": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+   "u": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
    "s": "The Guardian",
    "score": 2
   },
   {
-   "t": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-   "u": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+   "t": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
+   "u": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
    "s": "The Guardian",
    "score": 2
   },
   {
-   "t": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-   "u": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "t": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Apple may be developing its own AI agent that runs your Mac",
+   "u": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
    "s": "TechCrunch",
    "score": 2
   },
   {
-   "t": "Walter Isaacson on curiosity and creativity in the AI age.",
-   "u": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-   "s": "Google AI",
-   "score": 2
-  },
-  {
-   "t": "AI demand will push up interest rates around the world, IMF head warns",
-   "u": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-   "s": "The Guardian",
-   "score": 2
-  },
-  {
-   "t": "A random encounter with James McAvoy triggers delusional fantasy in Parasocial Activity",
-   "u": "https://www.theguardian.com/stage/2026/nov/19/parasocial-activity-review-a-james-mcavoy-obsession-oran-mor-glasgow",
-   "s": "The Guardian",
-   "score": 2
-  },
-  {
-   "t": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-   "s": "The Guardian",
-   "score": 2
+   "t": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+   "u": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+   "s": "Wired",
+   "score": 1
   }
  ]
 }
