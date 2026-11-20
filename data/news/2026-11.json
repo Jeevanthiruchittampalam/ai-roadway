@@ -963,6 +963,12 @@
    "score": 5
   },
   {
+   "t": "Claude solves two open problems in the physics of black holes",
+   "u": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "s": "Hacker News",
+   "score": 4.1
+  },
+  {
    "t": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
    "u": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
    "s": "The Guardian",
@@ -1005,16 +1011,10 @@
    "score": 4
   },
   {
-   "t": "Claude solves two open problems in the physics of black holes",
-   "u": "https://www.anthropic.com/research/claude-black-hole-physics",
-   "s": "Hacker News",
-   "score": 3.8
-  },
-  {
    "t": "Fuck Your AI Safeguards",
    "u": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
    "s": "Hacker News",
-   "score": 3.1
+   "score": 3.3
   },
   {
    "t": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
@@ -1031,10 +1031,28 @@
    "score": 6
   },
   {
+   "t": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+   "u": "https://alpo.ge/remark.pdf",
+   "s": "Hacker News",
+   "score": 6
+  },
+  {
    "t": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
    "u": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
    "s": "The Guardian",
    "score": 5
+  },
+  {
+   "t": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+   "u": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
+   "t": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "u": "https://architectlabs.com/blog/frostbite",
+   "s": "Hacker News",
+   "score": 2.8
   },
   {
    "t": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
@@ -1058,6 +1076,36 @@
    "t": "Apple may be developing its own AI agent that runs your Mac",
    "u": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
    "s": "TechCrunch",
+   "score": 2
+  },
+  {
+   "t": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+   "u": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Will AI break the internet? | Garrison Lovely",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "u": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "s": "TechCrunch",
+   "score": 2
+  },
+  {
+   "t": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "s": "The Verge",
    "score": 2
   },
   {
