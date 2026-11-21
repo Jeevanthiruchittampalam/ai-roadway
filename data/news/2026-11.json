@@ -1014,7 +1014,7 @@
    "t": "Fuck Your AI Safeguards",
    "u": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
    "s": "Hacker News",
-   "score": 3.4
+   "score": 3.5
   },
   {
    "t": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
@@ -1117,10 +1117,64 @@
  ],
  "2026-11-21": [
   {
+   "t": "Can Anthropic afford to put safety first?",
+   "u": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "s": "The Verge",
+   "score": 3
+  },
+  {
    "t": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
    "u": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
    "s": "The Guardian",
    "score": 2
+  },
+  {
+   "t": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+   "u": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "International talks on controlling use of autonomous weapons collapse",
+   "u": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+   "u": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "‘I’m opening the cage of a monster’: Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
+   "u": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "u": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "s": "TechCrunch",
+   "score": 1
+  },
+  {
+   "t": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "u": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "s": "The Verge",
+   "score": 1
+  },
+  {
+   "t": "The Outages Are Just Getting Started",
+   "u": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+   "s": "Wired",
+   "score": 1
   }
  ]
 }
