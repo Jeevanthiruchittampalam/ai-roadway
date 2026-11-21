@@ -966,7 +966,7 @@
    "t": "Claude solves two open problems in the physics of black holes",
    "u": "https://www.anthropic.com/research/claude-black-hole-physics",
    "s": "Hacker News",
-   "score": 4.2
+   "score": 4.3
   },
   {
    "t": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
@@ -1076,13 +1076,13 @@
    "t": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "u": "https://architectlabs.com/blog/frostbite",
    "s": "Hacker News",
-   "score": 3.6
+   "score": 3.7
   },
   {
    "t": "Restricting AI agents in mobile operating systems platforms from capturing data",
    "u": "https://signal.org/blog/protecting-your-privacy/",
    "s": "Hacker News",
-   "score": 3.2
+   "score": 3.3
   },
   {
    "t": "Google workers tell their employer not to punish schools that don't want AI",
@@ -1123,6 +1123,12 @@
    "score": 3
   },
   {
+   "t": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+   "u": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
    "t": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
    "u": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
    "s": "The Guardian",
@@ -1159,6 +1165,18 @@
    "score": 2
   },
   {
+   "t": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "The UN fails to agree on rules regulating ‘killer robots’",
+   "u": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "s": "The Verge",
+   "score": 2
+  },
+  {
    "t": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
    "u": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
    "s": "TechCrunch",
@@ -1174,6 +1192,18 @@
    "t": "The Outages Are Just Getting Started",
    "u": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
    "s": "Wired",
+   "score": 1
+  },
+  {
+   "t": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "u": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "s": "TechCrunch",
+   "score": 1
+  },
+  {
+   "t": "A tale of two Nvidias",
+   "u": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "s": "TechCrunch",
    "score": 1
   }
  ]
