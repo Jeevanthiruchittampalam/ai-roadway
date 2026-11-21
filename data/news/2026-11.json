@@ -874,7 +874,7 @@
    "t": "AI is killing All About Berlin",
    "u": "https://nicolasbouliane.com/blog/death-by-ai",
    "s": "Hacker News",
-   "score": 4.2
+   "score": 4.3
   },
   {
    "t": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
@@ -966,7 +966,7 @@
    "t": "Claude solves two open problems in the physics of black holes",
    "u": "https://www.anthropic.com/research/claude-black-hole-physics",
    "s": "Hacker News",
-   "score": 4.1
+   "score": 4.2
   },
   {
    "t": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
@@ -1014,7 +1014,7 @@
    "t": "Fuck Your AI Safeguards",
    "u": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
    "s": "Hacker News",
-   "score": 3.3
+   "score": 3.4
   },
   {
    "t": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
@@ -1043,76 +1043,84 @@
    "score": 5
   },
   {
+   "t": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
+   "u": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest",
+   "s": "The Guardian",
+   "score": 5
+  },
+  {
+   "t": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "u": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "s": "TechCrunch",
+   "score": 4
+  },
+  {
+   "t": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "u": "https://openai.com/business/customer-stories/hebbia",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Is Anthropic really worth $1.3 trillion? - The Latest",
+   "u": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
+   "s": "The Guardian",
+   "score": 4
+  },
+  {
+   "t": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+   "u": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+   "s": "Wired",
+   "score": 4
+  },
+  {
+   "t": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "u": "https://architectlabs.com/blog/frostbite",
+   "s": "Hacker News",
+   "score": 3.6
+  },
+  {
+   "t": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "u": "https://signal.org/blog/protecting-your-privacy/",
+   "s": "Hacker News",
+   "score": 3.2
+  },
+  {
+   "t": "Google workers tell their employer not to punish schools that don't want AI",
+   "u": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+   "s": "Hacker News",
+   "score": 3.1
+  },
+  {
    "t": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
    "u": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "s": "The Guardian",
    "score": 3
   },
   {
-   "t": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-   "u": "https://architectlabs.com/blog/frostbite",
-   "s": "Hacker News",
-   "score": 2.8
+   "t": "Combatting adversarial distillation",
+   "u": "https://openai.com/index/combatting-adversarial-distillation",
+   "s": "OpenAI",
+   "score": 3
   },
   {
-   "t": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
-   "u": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
-   "s": "The Guardian",
-   "score": 2
+   "t": "Can AI help scientists identify promising drug candidates?",
+   "u": "https://openai.com/index/introducing-medchembench",
+   "s": "OpenAI",
+   "score": 3
   },
   {
-   "t": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
-   "u": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
-   "s": "The Guardian",
-   "score": 2
-  },
-  {
-   "t": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
-   "s": "The Guardian",
-   "score": 2
-  },
-  {
-   "t": "Apple may be developing its own AI agent that runs your Mac",
-   "u": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-   "s": "TechCrunch",
-   "score": 2
-  },
-  {
-   "t": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-   "u": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-   "s": "The Guardian",
-   "score": 2
-  },
-  {
-   "t": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-   "u": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-   "s": "The Guardian",
-   "score": 2
-  },
-  {
-   "t": "Will AI break the internet? | Garrison Lovely",
-   "u": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
-   "s": "The Guardian",
-   "score": 2
-  },
-  {
-   "t": "The fallout from Nvidia’s Jensen Huang scandal continues",
-   "u": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-   "s": "TechCrunch",
-   "score": 2
-  },
-  {
-   "t": "Signal is blocking Gemini and Siri AI from reading your screen",
-   "u": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "t": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
    "s": "The Verge",
-   "score": 2
-  },
+   "score": 3
+  }
+ ],
+ "2026-11-21": [
   {
-   "t": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-   "u": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-   "s": "Wired",
-   "score": 1
+   "t": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
+   "u": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+   "s": "The Guardian",
+   "score": 2
   }
  ]
 }
