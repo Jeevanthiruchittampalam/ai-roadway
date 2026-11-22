@@ -868,7 +868,7 @@
    "t": "Google's AI answers reducing search traffic by 40%",
    "u": "https://revscope.co/blog/search-seo-geo-2026/",
    "s": "Hacker News",
-   "score": 4.8
+   "score": 4.9
   },
   {
    "t": "AI is killing All About Berlin",
@@ -1209,6 +1209,18 @@
  ],
  "2026-11-22": [
   {
+   "t": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "u": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "s": "Hacker News",
+   "score": 3.7
+  },
+  {
+   "t": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+   "u": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+   "s": "The Guardian",
+   "score": 3
+  },
+  {
    "t": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
    "u": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
    "s": "The Guardian",
@@ -1219,6 +1231,42 @@
    "u": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
    "s": "The Guardian",
    "score": 2
+  },
+  {
+   "t": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Will fragile bipartisanship on AI survive the silly season, or is parliament heading for a holiday meltdown? | Josh Butler",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/23/will-fragile-bipartisanship-on-ai-survive-silly-season-or-is-parliament-heading-for-a-holiday-meltdown-the-agenda",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+   "s": "The Guardian",
+   "score": 2
+  },
+  {
+   "t": "The vibe-coding revolution is coming to all the gadgets",
+   "u": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "s": "The Verge",
+   "score": 1
+  },
+  {
+   "t": "Banks Have Had It Up to Here With Your AI Agent",
+   "u": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+   "s": "Wired",
+   "score": 1
   }
  ]
 }
