@@ -1049,6 +1049,12 @@
    "score": 5
   },
   {
+   "t": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+   "u": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "s": "The Guardian",
+   "score": 4.1
+  },
+  {
    "t": "The fallout from Nvidia’s Jensen Huang scandal continues",
    "u": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
    "s": "TechCrunch",
@@ -1089,12 +1095,6 @@
    "u": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
    "s": "Hacker News",
    "score": 3.1
-  },
-  {
-   "t": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-   "u": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-   "s": "The Guardian",
-   "score": 3
   },
   {
    "t": "Combatting adversarial distillation",
@@ -1212,7 +1212,13 @@
    "t": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "u": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
    "s": "Hacker News",
-   "score": 5.8
+   "score": 6
+  },
+  {
+   "t": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "u": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "s": "Hacker News",
+   "score": 3.8
   },
   {
    "t": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
@@ -1233,16 +1239,10 @@
    "score": 3
   },
   {
-   "t": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-   "u": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "s": "Hacker News",
-   "score": 2.7
-  },
-  {
    "t": "Show HN: I built a game where you are an LLM's subagent",
    "u": "https://github.com/gulivan/worker755",
    "s": "Hacker News",
-   "score": 2.2
+   "score": 2.4
   },
   {
    "t": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
@@ -1301,9 +1301,87 @@
  ],
  "2026-11-23": [
   {
+   "t": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+   "u": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "s": "TechCrunch",
+   "score": 9
+  },
+  {
+   "t": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+   "u": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+   "s": "TechCrunch",
+   "score": 8
+  },
+  {
+   "t": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "u": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "s": "TechCrunch",
+   "score": 8
+  },
+  {
+   "t": "Jensen Huang is back as Nvidia’s CEO",
+   "u": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+   "s": "The Verge",
+   "score": 8
+  },
+  {
+   "t": "Jensen Huang reinstated as Nvidia CEO, board chair",
+   "u": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+   "s": "Ars Technica",
+   "score": 8
+  },
+  {
+   "t": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+   "u": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+   "s": "Wired",
+   "score": 8
+  },
+  {
+   "t": "Jensen Huang Is Back as Nvidia CEO",
+   "u": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+   "s": "Wired",
+   "score": 8
+  },
+  {
+   "t": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+   "u": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+   "s": "TechCrunch",
+   "score": 4
+  },
+  {
    "t": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
    "u": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
    "s": "TechCrunch",
+   "score": 3
+  },
+  {
+   "t": "Connected intelligence for in-house legal",
+   "u": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "Finding faster quantum algorithms with agents and formal verification",
+   "u": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "s": "Google DeepMind",
+   "score": 3
+  },
+  {
+   "t": "A more tailored Google Search that’s uniquely yours",
+   "u": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "s": "Google AI",
+   "score": 3
+  },
+  {
+   "t": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+   "u": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+   "s": "MIT Technology Review",
+   "score": 3
+  },
+  {
+   "t": "Tech leaders are celebrating Jensen Huang’s return",
+   "u": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+   "s": "The Verge",
    "score": 3
   },
   {
