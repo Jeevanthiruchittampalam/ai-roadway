@@ -1218,7 +1218,7 @@
    "t": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "u": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "s": "Hacker News",
-   "score": 3.8
+   "score": 4
   },
   {
    "t": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
@@ -1343,52 +1343,52 @@
    "score": 8
   },
   {
-   "t": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-   "u": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+   "t": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "u": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
    "s": "TechCrunch",
-   "score": 4
+   "score": 8
   },
   {
-   "t": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-   "u": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "t": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+   "u": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
    "s": "TechCrunch",
-   "score": 3
+   "score": 8
   },
   {
-   "t": "Connected intelligence for in-house legal",
-   "u": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-   "s": "OpenAI",
-   "score": 3
-  },
-  {
-   "t": "Finding faster quantum algorithms with agents and formal verification",
-   "u": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-   "s": "Google DeepMind",
-   "score": 3
-  },
-  {
-   "t": "A more tailored Google Search that’s uniquely yours",
-   "u": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-   "s": "Google AI",
-   "score": 3
-  },
-  {
-   "t": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-   "u": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-   "s": "MIT Technology Review",
-   "score": 3
-  },
-  {
-   "t": "Tech leaders are celebrating Jensen Huang’s return",
-   "u": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+   "t": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
    "s": "The Verge",
-   "score": 3
+   "score": 8
   },
   {
-   "t": "Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum",
-   "s": "The Guardian",
-   "score": 2
+   "t": "How Jensen Huang ended up as Nvidia CEO again",
+   "u": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+   "s": "The Verge",
+   "score": 8
+  },
+  {
+   "t": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "u": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "s": "TechCrunch",
+   "score": 6
+  },
+  {
+   "t": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "s": "The Verge",
+   "score": 6
+  },
+  {
+   "t": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "u": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+   "s": "Ars Technica",
+   "score": 6
+  },
+  {
+   "t": "States Sue SpaceX Over Grok Deepfakes",
+   "u": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+   "s": "Wired",
+   "score": 6
   }
  ]
 }
