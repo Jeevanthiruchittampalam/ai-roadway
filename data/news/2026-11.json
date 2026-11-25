@@ -1218,7 +1218,7 @@
    "t": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "u": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "s": "Hacker News",
-   "score": 4
+   "score": 4.1
   },
   {
    "t": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
@@ -1389,6 +1389,106 @@
    "u": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
    "s": "Wired",
    "score": 6
+  }
+ ],
+ "2026-11-24": [
+  {
+   "t": "Tidal bans AI-generated music",
+   "u": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "s": "Hacker News",
+   "score": 9.3
+  },
+  {
+   "t": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+   "u": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+   "s": "Ars Technica",
+   "score": 9
+  },
+  {
+   "t": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+   "u": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+   "s": "Wired",
+   "score": 9
+  },
+  {
+   "t": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "u": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "s": "TechCrunch",
+   "score": 8
+  },
+  {
+   "t": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+   "u": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+   "s": "Wired",
+   "score": 8
+  },
+  {
+   "t": "Tidal will start banning AI-generated music next month",
+   "u": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+   "s": "The Verge",
+   "score": 7
+  },
+  {
+   "t": "Anthropic breaks below $83 IPO price",
+   "u": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "s": "Hacker News",
+   "score": 6.3
+  },
+  {
+   "t": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "u": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "s": "The Verge",
+   "score": 6
+  },
+  {
+   "t": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+   "u": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+   "s": "Ars Technica",
+   "score": 6
+  },
+  {
+   "t": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "u": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "s": "TechCrunch",
+   "score": 5
+  },
+  {
+   "t": "LLM agents work for their parent companies, not for you",
+   "u": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "s": "Hacker News",
+   "score": 4.5
+  },
+  {
+   "t": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "u": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "s": "OpenAI",
+   "score": 4
+  },
+  {
+   "t": "Searching for distant planets with Astra",
+   "u": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "How Intentful uses dots to make more time for growth",
+   "u": "https://openai.com/business/customer-stories/intentful-dots",
+   "s": "OpenAI",
+   "score": 3
+  },
+  {
+   "t": "How iFood scales coding agents across 15,000 repositories",
+   "u": "https://openai.com/business/customer-stories/ifood",
+   "s": "OpenAI",
+   "score": 3
+  }
+ ],
+ "2026-11-25": [
+  {
+   "t": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "u": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "s": "TechCrunch",
+   "score": 2
   }
  ]
 }
