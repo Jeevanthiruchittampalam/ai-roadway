@@ -1218,7 +1218,7 @@
    "t": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
    "u": "https://bjin.github.io/go-codegolf-benchmark/",
    "s": "Hacker News",
-   "score": 4.4
+   "score": 4.8
   },
   {
    "t": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
@@ -1491,6 +1491,12 @@
    "score": 8
   },
   {
+   "t": "Much shorter version of GRH Lean verification from Anthropic",
+   "u": "https://github.com/lsernau/grh-lean",
+   "s": "Hacker News",
+   "score": 4.1
+  },
+  {
    "t": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
    "u": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
    "s": "TechCrunch",
@@ -1509,16 +1515,22 @@
    "score": 4
   },
   {
-   "t": "Much shorter version of GRH Lean verification from Anthropic",
-   "u": "https://github.com/lsernau/grh-lean",
-   "s": "Hacker News",
-   "score": 3.7
-  },
-  {
    "t": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
    "u": "https://gpu-demo-gallery.pages.dev/",
    "s": "Hacker News",
    "score": 3.4
+  },
+  {
+   "t": "The New York Times warns photographers not to update Photoshop over AI features",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "s": "Hacker News",
+   "score": 3.3
+  },
+  {
+   "t": "State AGs fight Character AI’s plan to auction off users’ private chats",
+   "u": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "s": "TechCrunch",
+   "score": 3
   },
   {
    "t": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
@@ -1561,18 +1573,32 @@
    "u": "https://www.marginalia.nu/log/a_141_marginalia_update/",
    "s": "Hacker News",
    "score": 1.9
+  }
+ ],
+ "2026-11-26": [
+  {
+   "t": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "u": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "s": "Hacker News",
+   "score": 4.7
   },
   {
-   "t": "Want to buy your kid an AI toy this Christmas? Not in New York",
-   "u": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-   "s": "TechCrunch",
-   "score": 1
+   "t": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "u": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "s": "The Verge",
+   "score": 3
   },
   {
-   "t": "State AGs fight Character AI’s plan to auction off users’ private chats",
-   "u": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "t": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "u": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
    "s": "TechCrunch",
-   "score": 1
+   "score": 2
+  },
+  {
+   "t": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+   "u": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "s": "Wired",
+   "score": 2
   }
  ]
 }
