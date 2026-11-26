@@ -1215,6 +1215,12 @@
    "score": 6
   },
   {
+   "t": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "u": "https://bjin.github.io/go-codegolf-benchmark/",
+   "s": "Hacker News",
+   "score": 4.4
+  },
+  {
    "t": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "u": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "s": "Hacker News",
@@ -1290,12 +1296,6 @@
    "t": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
    "u": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
    "s": "The Guardian",
-   "score": 2
-  },
-  {
-   "t": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-   "u": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-   "s": "TechCrunch",
    "score": 2
   }
  ],
@@ -1474,7 +1474,7 @@
    "t": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "u": "https://news.ycombinator.com/item?id=50630809",
    "s": "Hacker News",
-   "score": 3.7
+   "score": 3.8
   },
   {
    "t": "Searching for distant planets with Astra",
@@ -1503,10 +1503,22 @@
    "score": 4
   },
   {
+   "t": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "u": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "s": "TechCrunch",
+   "score": 4
+  },
+  {
+   "t": "Much shorter version of GRH Lean verification from Anthropic",
+   "u": "https://github.com/lsernau/grh-lean",
+   "s": "Hacker News",
+   "score": 3.7
+  },
+  {
    "t": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
    "u": "https://gpu-demo-gallery.pages.dev/",
    "s": "Hacker News",
-   "score": 3.2
+   "score": 3.4
   },
   {
    "t": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
@@ -1521,10 +1533,34 @@
    "score": 2
   },
   {
+   "t": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "u": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "s": "TechCrunch",
+   "score": 2
+  },
+  {
+   "t": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "u": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "s": "TechCrunch",
+   "score": 2
+  },
+  {
+   "t": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "u": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "s": "TechCrunch",
+   "score": 2
+  },
+  {
+   "t": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "u": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "s": "The Verge",
+   "score": 2
+  },
+  {
    "t": "Marginalia Search, Money, C++, Rust, AI, Stuff",
    "u": "https://www.marginalia.nu/log/a_141_marginalia_update/",
    "s": "Hacker News",
-   "score": 1.8
+   "score": 1.9
   },
   {
    "t": "Want to buy your kid an AI toy this Christmas? Not in New York",
@@ -1536,42 +1572,6 @@
    "t": "State AGs fight Character AI’s plan to auction off users’ private chats",
    "u": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "s": "TechCrunch",
-   "score": 1
-  },
-  {
-   "t": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-   "u": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-   "s": "TechCrunch",
-   "score": 1
-  },
-  {
-   "t": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-   "u": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-   "s": "The Verge",
-   "score": 1
-  },
-  {
-   "t": "Nothing offers a full look at its AI earbuds and charging case",
-   "u": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-   "s": "The Verge",
-   "score": 1
-  },
-  {
-   "t": "Has vibe coding made open source the new normal for synths?",
-   "u": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-   "s": "The Verge",
-   "score": 1
-  },
-  {
-   "t": "Ars Live recap: Don’t expect military attacks on data centers to stop",
-   "u": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
-   "s": "Ars Technica",
-   "score": 1
-  },
-  {
-   "t": "AI may soon change what it means to be a theoretical physicist",
-   "u": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-   "s": "Ars Technica",
    "score": 1
   }
  ]
