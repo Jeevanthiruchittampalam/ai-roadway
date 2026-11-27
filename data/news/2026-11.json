@@ -1218,7 +1218,7 @@
    "t": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
    "u": "https://bjin.github.io/go-codegolf-benchmark/",
    "s": "Hacker News",
-   "score": 4.8
+   "score": 4.9
   },
   {
    "t": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
@@ -1474,7 +1474,7 @@
    "t": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "u": "https://news.ycombinator.com/item?id=50630809",
    "s": "Hacker News",
-   "score": 3.8
+   "score": 3.9
   },
   {
    "t": "Searching for distant planets with Astra",
@@ -1494,7 +1494,7 @@
    "t": "Much shorter version of GRH Lean verification from Anthropic",
    "u": "https://github.com/lsernau/grh-lean",
    "s": "Hacker News",
-   "score": 4.1
+   "score": 4.2
   },
   {
    "t": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
@@ -1515,16 +1515,16 @@
    "score": 4
   },
   {
+   "t": "The New York Times warns photographers not to update Photoshop over AI features",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "s": "Hacker News",
+   "score": 3.7
+  },
+  {
    "t": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
    "u": "https://gpu-demo-gallery.pages.dev/",
    "s": "Hacker News",
    "score": 3.4
-  },
-  {
-   "t": "The New York Times warns photographers not to update Photoshop over AI features",
-   "u": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-   "s": "Hacker News",
-   "score": 3.3
   },
   {
    "t": "State AGs fight Character AI’s plan to auction off users’ private chats",
@@ -1580,13 +1580,37 @@
    "t": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
    "u": "https://twitter.com/thsottiaux/status/2125784147889393806",
    "s": "Hacker News",
-   "score": 4.7
+   "score": 4.9
+  },
+  {
+   "t": "AI made self-hosting fun again",
+   "u": "https://janlukas.blog/posts/ai-self-hosting",
+   "s": "Hacker News",
+   "score": 3.4
+  },
+  {
+   "t": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "u": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "s": "Hacker News",
+   "score": 3.3
+  },
+  {
+   "t": "OpenAI may be in cost control mode",
+   "u": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+   "s": "Hacker News",
+   "score": 3.3
   },
   {
    "t": "42 state AGs are trying to stop Character.AI from selling users’ chats",
    "u": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
    "s": "The Verge",
    "score": 3
+  },
+  {
+   "t": "Tracking Diseases Cured by AI",
+   "u": "https://diseasescuredbyai.com/",
+   "s": "Hacker News",
+   "score": 2.2
   },
   {
    "t": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -1599,6 +1623,20 @@
    "u": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
    "s": "Wired",
    "score": 2
+  },
+  {
+   "t": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "u": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "s": "TechCrunch",
+   "score": 2
+  }
+ ],
+ "2026-11-27": [
+  {
+   "t": "A New Breed of Chip Runs AI Models Using Waves of Light",
+   "u": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+   "s": "Wired",
+   "score": 1
   }
  ]
 }
