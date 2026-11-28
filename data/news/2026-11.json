@@ -1580,25 +1580,25 @@
    "t": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
    "u": "https://twitter.com/thsottiaux/status/2125784147889393806",
    "s": "Hacker News",
-   "score": 4.9
+   "score": 5
   },
   {
    "t": "AI made self-hosting fun again",
    "u": "https://janlukas.blog/posts/ai-self-hosting",
    "s": "Hacker News",
-   "score": 3.4
+   "score": 5
   },
   {
    "t": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
    "u": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
    "s": "Hacker News",
-   "score": 3.3
+   "score": 3.7
   },
   {
    "t": "OpenAI may be in cost control mode",
    "u": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
    "s": "Hacker News",
-   "score": 3.3
+   "score": 3.4
   },
   {
    "t": "42 state AGs are trying to stop Character.AI from selling users’ chats",
@@ -1610,7 +1610,7 @@
    "t": "Tracking Diseases Cured by AI",
    "u": "https://diseasescuredbyai.com/",
    "s": "Hacker News",
-   "score": 2.2
+   "score": 2.3
   },
   {
    "t": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -1633,9 +1633,21 @@
  ],
  "2026-11-27": [
   {
+   "t": "Group chat where your AI talks behind your back",
+   "u": "https://construct22.com/",
+   "s": "Hacker News",
+   "score": 3.7
+  },
+  {
    "t": "A New Breed of Chip Runs AI Models Using Waves of Light",
    "u": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
    "s": "Wired",
+   "score": 1
+  },
+  {
+   "t": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "u": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "s": "The Verge",
    "score": 1
   }
  ]
